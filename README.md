@@ -1,4 +1,1 @@
 # UserRegistrationUsingJunit
-# UserRegistrationWithLambdaFunction
-# UserRegistrationWithLambdaFunction
-# UserRegistrationWithLambdaFunction
